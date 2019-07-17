@@ -1,0 +1,1640 @@
+{
+  "settings": {
+    "name": "Site-07-16_1732",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.5",
+    "siteFonts": [],
+    "uniqCompNum": 21,
+    "versionPublish": "4.9.3",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fac51c",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\">Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\">Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "16px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fac51c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac008"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/transparent.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f7da64",
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0"
+          },
+          "title": "Property Bazar.biz<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Need Help ?",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "empowerworldindia@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#fac51c",
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "form1-0"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "contact",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fac51c",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\">Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\">Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "16px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fac51c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac008"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/transparent.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
+          "form": {
+            "action": "empowerworldindia@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-k",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#fac51c"
+            }
+          }
+        }
+      ]
+    },
+    "advisorcall.html": {
+      "settings": {
+        "title": "advisorcall",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fac51c",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\">Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\">Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "16px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fac51c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac008"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/transparent.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ADVISOR'CALL",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
+          "form": {
+            "action": "empowerworldindia@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Query!!"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-i",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#fac51c"
+            }
+          }
+        }
+      ]
+    },
+    "photovideo.html": {
+      "settings": {
+        "title": "photovideo",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fac51c",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\">Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\">Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "16px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fac51c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac008"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/transparent.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-g"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=mEPldsub8Hw&t=19s",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Real Estate Training",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>MunishBansal's Training solutions Provide Training to the Real Estate Associate &amp; Brokers for achive better performance.......</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-i"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-1366x768.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;Mind Power Seminar",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-1366x768.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "Investor Seminar",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/9-1366x768.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "Career Counselling",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-1366x768.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br><br><br><br>Real Estate Sales Seminar",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/12-1366x768.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;Sales &nbsp;Seminar",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180829-172709-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;Sales &nbsp;Technique",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-j"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-1366x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1366x768-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20180809-194655-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20180809-194655-2000x1500-800x448.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-1366x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-1366x768-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/89-1366x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/89-1366x768-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-1366x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-1366x768-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180829-193106-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180829-193106-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180829-203110-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180829-203110-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180801-205032-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180801-205032-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-k"
+        }
+      ]
+    },
+    "career.html": {
+      "settings": {
+        "title": "career",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fac51c",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\">Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\">Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "16px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fac51c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac008"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/transparent.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-g"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=lX0u5wd9aPk&t=6s",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Career in Real Estate",
+          "text": "•\tWorking as a Real Estate sales agent or broker can be a fulfilling and financially rewarding career<div>•\tConsider what a career in real estate is really like: drumming up business on a daily basis, promoting yourself, keeping track of leads, providing exceptional customer service to a wide variety of clients, and much, much more.\n</div><div>Most realtors are Real estate brokers and sales agents help clients buy, sell, and rent properties. employment of real estate brokers and sales agents is projected to increase by 12% between 2019 and 2022, about as fast as the average for all occupations. By 2022, there are estimated to be about 380,400 sales agents and 88,500 brokers working in the industry.\n</div><div>•\taid on a commission-only basis, so there is the potential of working for days, weeks, or even months without a paycheck.\n</div><div>\n</div><div>Like any career, it helps to be suited to the requirements of the job. Read on to see whether a real estate career is a good fit for you.\n</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Registration</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo2-removebg-preview-163x86.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "text1": "<br>\n<strong>CONTACTS</strong><br>\nEmail: empowerworldindia@gmail.com<br>\nPhone: +91 (0129) 4881678<br>\nFax:+91 (0129) 4881678<br>Web:www.propertybazar.biz",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://munishbansal.com\">Munishbansal.com</a></li><li><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "empowerworldindia@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-j"
+        }
+      ]
+    },
+    "associate.html": {
+      "settings": {
+        "title": "associate",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fac51c",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\">Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\">Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "16px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fac51c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac008"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/transparent.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f7da64",
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0"
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Associate Registration<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "empowerworldindia@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Experience"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "form1-d"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo2-removebg-preview-163x86.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "text1": "<br>\n<strong>CONTACTS</strong><br>\nEmail: empowerworldindia@gmail.com<br>\nPhone: +91 (0129) 4881678<br>\nFax:+91 (0129) 4881678<br>Web:www.propertybazar.biz",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://munishbansal.com\">Munishbansal.com</a></li><li><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "empowerworldindia@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-f"
+        }
+      ]
+    },
+    "shriradharani.html": {
+      "settings": {
+        "title": "radha rani",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fac51c",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\">Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\">Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "16px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fac51c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac008"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/transparent.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-7"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/krs5-1080x608.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Shri Radha Rani Township",
+                "contentAlign": "left",
+                "text": "<b>The spacious Plot at KRS Shri RadhaRani Township Phase 1 comes with many modern amenities including Utility Shops, Internal Roads, Swimming Pool, Sewage Treatment Plant and Security Guards.</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html#testimonials1-b\" data-toolbar=\"-mbrBtnMove\">More Details</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/krs1-1024x755.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "M",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More Details</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/krs3-1280x720.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "BLOCK A",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More Details</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/krs4-585x325.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More Details</a> "
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-9",
+          "_styles": {
+            "H1": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-725x527.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-725x527-725x527.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-718x518.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-718x518-718x518.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-706x523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-706x523-706x523.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-732x527.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-732x527-732x527.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-735x471.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-735x471-735x471.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6-727x523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-727x523-727x523.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7-734x530.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-734x530-734x530.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-731x515.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-731x515-731x515.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "RADHA RANI TOWNSHIP , BARSANA",
+          "items": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Location Advantage\n</b></p><p class=\"mbr-reviews__p\">10 to 12 minutes from NH-2\n</p><p class=\"mbr-reviews__p\">&nbsp;Radha Rani Temple 5 min &nbsp;from Barasana\n</p><p class=\"mbr-reviews__p\">&nbsp;Rangili Mahal 5 minaway from Barasana\n</p><p class=\"mbr-reviews__p\">&nbsp;7 to 8 minutes from Nand village\n</p><p class=\"mbr-reviews__p\">&nbsp;5 minutes from bus stand\n</p><p class=\"mbr-reviews__p\">&nbsp;5 minutes away from school college\n</p><p class=\"mbr-reviews__p\">&nbsp;10 to 15 minutes from Shani Dham\n</p><p class=\"mbr-reviews__p\">&nbsp;15 minutes from Govardhan\n</p><p class=\"mbr-reviews__p\">&nbsp;Proposed Railway line Koshi Nand village, &nbsp;Cama Bharatpur\n</p><p class=\"mbr-reviews__p\">&nbsp;Proposed Yamuna Expressway connectivity &nbsp; &nbsp;is 25-30 minutes away\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> &nbsp;Features &nbsp; &nbsp;</b></p><p class=\"mbr-reviews__p\">&nbsp; Sewerage facility by STP\r</p><p class=\"mbr-reviews__p\">&nbsp; 24-hour freshwater facility\r</p><p class=\"mbr-reviews__p\">&nbsp; Public utility (swimming, club andothers)\r</p><p class=\"mbr-reviews__p\">&nbsp; Community center\r</p><p class=\"mbr-reviews__p\">&nbsp; School, temple, hospital, park\r</p><p class=\"mbr-reviews__p\">&nbsp; Wide , rugged roads, lights ,trees on roads\r</p><p class=\"mbr-reviews__p\">&nbsp; Boundary facility\r</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;24 Hours Security Facility on the Gate\r</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp;Rate List</b></p><p class=\"mbr-reviews__p\">\tBlock A Front      \t       :                    5000Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock A               \t\t       :             4500 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock B             \t\t       :             4750 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock C          \t\t       :             4500 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tV.I.P. Block  \t\t       :             6500 Per Sq. yard\n</p><p class=\"mbr-reviews__p\">&nbsp; \nShri Radha Rani Phase 1 Chata Barsana&nbsp;</p><p class=\"mbr-reviews__p\">\t 100 ,150,200 Sq. yd &nbsp;:    4250 &nbsp;Sq. Yard\n</p><p class=\"mbr-reviews__p\">\t 50 &amp; 72 Sq. Yard                             :    4000 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;(Note: 10 % Will Be PLC Charge will be extra on Corner,Main Road and Park Facing Plots)\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-b",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Location Advantage\n</b></p><p class=\"mbr-reviews__p\">10 to 12 minutes from NH-2\n</p><p class=\"mbr-reviews__p\">&nbsp;Radha Rani Temple 5 min &nbsp;from Barasana\n</p><p class=\"mbr-reviews__p\">&nbsp;Rangili Mahal 5 minaway from Barasana\n</p><p class=\"mbr-reviews__p\">&nbsp;7 to 8 minutes from Nand village\n</p><p class=\"mbr-reviews__p\">&nbsp;5 minutes from bus stand\n</p><p class=\"mbr-reviews__p\">&nbsp;5 minutes away from school college\n</p><p class=\"mbr-reviews__p\">&nbsp;10 to 15 minutes from Shani Dham\n</p><p class=\"mbr-reviews__p\">&nbsp;15 minutes from Govardhan\n</p><p class=\"mbr-reviews__p\">&nbsp;Proposed Railway line Koshi Nand village, &nbsp;Cama Bharatpur\n</p><p class=\"mbr-reviews__p\">&nbsp;Proposed Yamuna Expressway connectivity &nbsp; &nbsp;is 25-30 minutes away\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> &nbsp;Features &nbsp; &nbsp;</b></p><p class=\"mbr-reviews__p\">&nbsp; Sewerage facility by STP\r</p><p class=\"mbr-reviews__p\">&nbsp; 24-hour freshwater facility\r</p><p class=\"mbr-reviews__p\">&nbsp; Public utility (swimming, club andothers)\r</p><p class=\"mbr-reviews__p\">&nbsp; Community center\r</p><p class=\"mbr-reviews__p\">&nbsp; School, temple, hospital, park\r</p><p class=\"mbr-reviews__p\">&nbsp; Wide , rugged roads, lights ,trees on roads\r</p><p class=\"mbr-reviews__p\">&nbsp; Boundary facility\r</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;24 Hours Security Facility on the Gate\r</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp;Rate List</b></p><p class=\"mbr-reviews__p\">\tBlock A Front      \t       :                    5000Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock A               \t\t       :             4500 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock B             \t\t       :             4750 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock C          \t\t       :             4500 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tV.I.P. Block  \t\t       :             6500 Per Sq. yard\n</p><p class=\"mbr-reviews__p\">&nbsp; \nShri Radha Rani Phase 1 Chata Barsana&nbsp;</p><p class=\"mbr-reviews__p\">\t 100 ,150,200 Sq. yd &nbsp;:    4250 &nbsp;Sq. Yard\n</p><p class=\"mbr-reviews__p\">\t 50 &amp; 72 Sq. Yard                             :    4000 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;(Note: 10 % Will Be PLC Charge will be extra on Corner,Main Road and Park Facing Plots)\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-reviews__text P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "cyberthum.html": {
+      "settings": {
+        "title": "cyberthum",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fac51c",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\">Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\">Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\">Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "16px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fac51c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac008"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/transparent.gif",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-3"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fac51c",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/d-1200x909.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">CyberThum</span>",
+                "contentAlign": "left",
+                "text": "There are two residential hubs close by, one in sector 137 and another in sector 143. The retail spaces in Butani Cyberthum will cater to requirements of over 2 lakh families living in these two hubs them. This project will cater to these hubs as well as others from far off places also since this will be a unique project. A number of international brands have already booked their place in this project.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html#testimonials1-6\" data-toolbar=\"-mbrBtnMove\">More details</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/banner-1-1584x557.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "CyberThum",
+                "contentAlign": "center",
+                "text": "Butani Cyberthum is a project which is offering returns till possession and leasing guarantee for 9 years. Whether you are looking for investment or for self-use, this project is the answer. Food Court, entertainment options, kids zone, this project has all the options matching your requirement.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html#testimonials1-6\" data-toolbar=\"-mbrBtnMove\">More Details</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/a-1300x910.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Cyberthum",
+                "contentAlign": "right",
+                "text": "Butani Cyberthum is a commercial which has all the elements of commercial as well high street retail project. It will also have a full-fledged food court. The location of this project is unmatched as it is close to three metros stations of sector 137, sector 142 and sector 143. It is also located on two expressways- FNG and Noida expressway. ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html#testimonials1-6\" data-toolbar=\"-mbrBtnMove\">More Details</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/b-602x710.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "CyberThum",
+                "contentAlign": "right",
+                "text": "The commercial project will have 50 storey towers with connecting middle floors and space for retail shops. The shops and retail spaces are meant for high street fashion and showrooms. There will also be a huge water body in the centre which will attract crowd for fun-filled activities and taking selfie.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html#testimonials1-6\" data-toolbar=\"-mbrBtnMove\">More Details</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/way-1170x738.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-5",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Bhutani Cyberthum Highlights:\n<div>Project Name: Bhutani Cyberthum\n</div><div>Plot Area: 27 Acres\n</div><div>No of Tower: 4 (A, B, C, D)\n</div><div>Type: Retails + Office + Studio + Multiplex Cinema\n</div><div><br></div>",
+          "items": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bhutani Cyberthum Amenities:\n</b><div>24 HOUR POWER BACKUP, 24 HOURS SECURITY, 24 HOUR WATER SUPPLY, ATM, BANQUET HALL, CAFETERIA, CCTV, CLUBHOUSE, COVERED PARKING, INFINITY POOL, WI-FI, TERRACE GARDEN, INTERCOM, SECURITY,GYMNASIUM, FIRE ALARM SYSTEM, 24 HOURS POWER BACKUP, 24 HOURS WATER SUPPLY, WATER HARVESTING, LIFT, SHOPPING MALL, FOOD COURT AND ETC.\n</div><div><br></div>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<b>Bhutani Cyberthum Location Advantages:\n</b><div>I-5 minutes’ drive from Amity University\n</div><div>II-10 minutes’ drive from Maha Maya Flyover\n</div><div>III-15 minutes’ drive from Atta Market (Sector 18 Noida)\n</div><div>IV-17 minutes’ drive from DND\n</div><div>V-20 minutes’ drive from Akshardham Temple\n</div><div>\n</div><div><br></div>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<div><b>Cyberthum Highlights&nbsp;</b></div><div>The office space is available at the rate of 550 sq ft for Rs 25 lakh approximately. The retail space is available at the rate of 500 sq ft for Rs 85 lakh approximately. Loans can also be arranged for you quickly so that you can grab this opportunity as soon as possible. The bets of the banks are willing to lend for this prestigious project.\n</div><div>\n</div><div><br></div>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-6",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bhutani Cyberthum Amenities:\n</b><div>24 HOUR POWER BACKUP, 24 HOURS SECURITY, 24 HOUR WATER SUPPLY, ATM, BANQUET HALL, CAFETERIA, CCTV, CLUBHOUSE, COVERED PARKING, INFINITY POOL, WI-FI, TERRACE GARDEN, INTERCOM, SECURITY,GYMNASIUM, FIRE ALARM SYSTEM, 24 HOURS POWER BACKUP, 24 HOURS WATER SUPPLY, WATER HARVESTING, LIFT, SHOPPING MALL, FOOD COURT AND ETC.\n</div><div><br></div>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<b>Bhutani Cyberthum Location Advantages:\n</b><div>I-5 minutes’ drive from Amity University\n</div><div>II-10 minutes’ drive from Maha Maya Flyover\n</div><div>III-15 minutes’ drive from Atta Market (Sector 18 Noida)\n</div><div>IV-17 minutes’ drive from DND\n</div><div>V-20 minutes’ drive from Akshardham Temple\n</div><div>\n</div><div><br></div>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<div><b>Cyberthum Highlights&nbsp;</b></div><div>The office space is available at the rate of 550 sq ft for Rs 25 lakh approximately. The retail space is available at the rate of 500 sq ft for Rs 85 lakh approximately. Loans can also be arranged for you quickly so that you can grab this opportunity as soon as possible. The bets of the banks are willing to lend for this prestigious project.\n</div><div>\n</div><div><br></div>"
+            }
+          ],
+          "_styles": {
+            ".mbr-reviews__text DIV": {
+              "text-align": "center"
+            },
+            ".mbr-section__header DIV": {
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            ".mbr-section__header": {
+              "text-align": "center",
+              "color": "#28324e"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
