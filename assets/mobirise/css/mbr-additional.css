@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 
 
 #dropdown-menu-2btn-2 .hide-buttons [data-button] {
@@ -16,12 +18,12 @@
 }
 #dropdown-menu-2btn-2 .navbar,
 #dropdown-menu-2btn-2 .dropdown-menu {
-  background: #cccccc;
+  background: #f7da64;
 }
 #dropdown-menu-2btn-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-2 .dropdown-menu a:hover,
 #dropdown-menu-2btn-2 .dropdown-menu a:focus {
-  background: #c2c2c2;
+  background: #f6d551;
 }
 #dropdown-menu-2btn-2 .navbar-toggler {
   color: #000000;
@@ -51,9 +53,6 @@
 #slider-q SPAN {
   font-size: 19px;
 }
-#form1-t .mbr-header__text {
-  color: #fac51c;
-}
 
 
 #dropdown-menu-2btn-g .hide-buttons [data-button] {
@@ -70,12 +69,12 @@
 }
 #dropdown-menu-2btn-g .navbar,
 #dropdown-menu-2btn-g .dropdown-menu {
-  background: #fac51c;
+  background: #f7da64;
 }
 #dropdown-menu-2btn-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-g .dropdown-menu a:hover,
 #dropdown-menu-2btn-g .dropdown-menu a:focus {
-  background: #fac008;
+  background: #f6d551;
 }
 #dropdown-menu-2btn-g .navbar-toggler {
   color: #000000;
@@ -106,12 +105,12 @@
 }
 #dropdown-menu-2btn-g .navbar,
 #dropdown-menu-2btn-g .dropdown-menu {
-  background: #fac51c;
+  background: #f7da64;
 }
 #dropdown-menu-2btn-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-g .dropdown-menu a:hover,
 #dropdown-menu-2btn-g .dropdown-menu a:focus {
-  background: #fac008;
+  background: #f6d551;
 }
 #dropdown-menu-2btn-g .navbar-toggler {
   color: #000000;
@@ -145,12 +144,12 @@
 }
 #dropdown-menu-2btn-g .navbar,
 #dropdown-menu-2btn-g .dropdown-menu {
-  background: #cccccc;
+  background: #f7da64;
 }
 #dropdown-menu-2btn-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-g .dropdown-menu a:hover,
 #dropdown-menu-2btn-g .dropdown-menu a:focus {
-  background: #c2c2c2;
+  background: #f6d551;
 }
 #dropdown-menu-2btn-g .navbar-toggler {
   color: #000000;
@@ -190,12 +189,12 @@
 }
 #dropdown-menu-2btn-g .navbar,
 #dropdown-menu-2btn-g .dropdown-menu {
-  background: #fac51c;
+  background: #f7da64;
 }
 #dropdown-menu-2btn-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-g .dropdown-menu a:hover,
 #dropdown-menu-2btn-g .dropdown-menu a:focus {
-  background: #fac008;
+  background: #f6d551;
 }
 #dropdown-menu-2btn-g .navbar-toggler {
   color: #000000;
@@ -233,12 +232,12 @@
 }
 #dropdown-menu-2btn-c .navbar,
 #dropdown-menu-2btn-c .dropdown-menu {
-  background: #fac51c;
+  background: #f7da64;
 }
 #dropdown-menu-2btn-c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-c .dropdown-menu a:hover,
 #dropdown-menu-2btn-c .dropdown-menu a:focus {
-  background: #fac008;
+  background: #f6d551;
 }
 #dropdown-menu-2btn-c .navbar-toggler {
   color: #000000;
@@ -271,12 +270,12 @@
 }
 #dropdown-menu-2btn-7 .navbar,
 #dropdown-menu-2btn-7 .dropdown-menu {
-  background: #fac51c;
+  background: #f7da64;
 }
 #dropdown-menu-2btn-7 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-7 .dropdown-menu a:hover,
 #dropdown-menu-2btn-7 .dropdown-menu a:focus {
-  background: #fac008;
+  background: #f6d551;
 }
 #dropdown-menu-2btn-7 .navbar-toggler {
   color: #000000;
@@ -291,9 +290,14 @@
 #slider-9 H1 {
   font-size: 36px;
 }
+#slider-9 P {
+  text-align: center;
+}
 #testimonials1-b .mbr-reviews__text P {
   text-align: left;
 }
+
+
 
 
 #dropdown-menu-2btn-3 .hide-buttons [data-button] {
@@ -310,12 +314,12 @@
 }
 #dropdown-menu-2btn-3 .navbar,
 #dropdown-menu-2btn-3 .dropdown-menu {
-  background: #cccccc;
+  background: #f7da64;
 }
 #dropdown-menu-2btn-3 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-3 .dropdown-menu a:hover,
 #dropdown-menu-2btn-3 .dropdown-menu a:focus {
-  background: #c2c2c2;
+  background: #f6d551;
 }
 #dropdown-menu-2btn-3 .navbar-toggler {
   color: #000000;
@@ -336,8 +340,17 @@
 #testimonials1-6 .mbr-section__header DIV {
   text-align: center;
   font-size: 16px;
+  font-family: 'Indie Flower', cursive;
 }
 #testimonials1-6 .mbr-section__header {
   text-align: center;
   color: #28324e;
+}
+#testimonials1-6 .mbr-section__header SPAN {
+  font-size: 18px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #b8312f;
+}
+#testimonials1-6 .mbr-reviews__text {
+  text-align: center;
 }
