@@ -292,6 +292,10 @@
 }
 #slider-9 P {
   text-align: center;
+  font-size: 15px;
+}
+#slider-9 SPAN {
+  font-size: 20px;
 }
 #testimonials1-b .mbr-reviews__text P {
   text-align: left;
@@ -332,7 +336,10 @@
   font-family: 'Oswald', sans-serif;
 }
 #slider-5 P {
-  font-size: 18px;
+  font-size: 13px;
+}
+#slider-5 SPAN {
+  font-size: 30px;
 }
 #testimonials1-6 .mbr-reviews__text DIV {
   text-align: center;
@@ -349,7 +356,7 @@
 #testimonials1-6 .mbr-section__header SPAN {
   font-size: 18px;
   font-family: 'PT Sans Narrow', sans-serif;
-  color: #b8312f;
+  color: #ffffff;
 }
 #testimonials1-6 .mbr-reviews__text {
   text-align: center;

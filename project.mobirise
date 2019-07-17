@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-16_1732",
-    "currentPage": "index.html",
+    "currentPage": "cyberthum.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -456,7 +456,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
+          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -823,6 +823,26 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-z"
         }
       ]
     },
@@ -1185,6 +1205,26 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-z"
         }
       ]
     },
@@ -1715,7 +1755,11 @@
               "font-size": "36px"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "font-size": "20px"
             }
           }
         },
@@ -1845,7 +1889,7 @@
             {
               "authorName": "",
               "authorBio": "",
-              "text": "<p class=\"mbr-reviews__p\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Location Advantage\n</b></p><p class=\"mbr-reviews__p\">&nbsp;-10 to 12 minutes from NH-2\n</p><p class=\"mbr-reviews__p\">&nbsp;-Radha Rani Temple 5 min&nbsp;</p><p class=\"mbr-reviews__p\">- Rangili Mahal 5 min away&nbsp;</p><p class=\"mbr-reviews__p\">- 7 to 8 minutes from Nand village\n</p><p class=\"mbr-reviews__p\">- 5 minutes from bus stand\n</p><p class=\"mbr-reviews__p\">- 5 minutes away from school college\n</p><p class=\"mbr-reviews__p\">- 10 to 15 minutes from Shani Dham\n</p><p class=\"mbr-reviews__p\">- 15 minutes from Govardhan\n</p><p class=\"mbr-reviews__p\">- Proposed Rail line Koshi Nand Gav</p><p class=\"mbr-reviews__p\">- Proposed Yamuna Express connectivity &nbsp; &nbsp;</p><p class=\"mbr-reviews__p\"><br></p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Location Advantage\n</b></p><p class=\"mbr-reviews__p\">&nbsp;-10 to 12 minutes from NH-2\n</p><p class=\"mbr-reviews__p\">&nbsp;-Radha Rani Temple 5 min&nbsp;</p><p class=\"mbr-reviews__p\">- Rangili Mahal 5 min away&nbsp;</p><p class=\"mbr-reviews__p\">- 7 to 8 minutes from Nand village\n</p><p class=\"mbr-reviews__p\">- 5 minutes from bus stand\n</p><p class=\"mbr-reviews__p\">- 5 minutes away from school college\n</p><p class=\"mbr-reviews__p\">- 10 to 15 minutes from Shani Dham\n</p><p class=\"mbr-reviews__p\">- 15 minutes from Govardhan\n</p><p class=\"mbr-reviews__p\">- Proposed Rail line Koshi Nand Gav</p><p class=\"mbr-reviews__p\">- Yamuna ExpressWay connectivity &nbsp; &nbsp;</p><p class=\"mbr-reviews__p\"><br></p>"
             },
             {
               "authorName": "",
@@ -1927,7 +1971,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
+          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -2030,9 +2074,9 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "<span style=\"font-weight: normal;\">CyberThum</span>",
+                "title": "<span style=\"font-weight: normal;\">&nbsp;CyberThum</span>",
                 "contentAlign": "left",
-                "text": "There are two residential hubs close by, one in sector 137 and another in sector 143. The retail spaces in Butani Cyberthum will cater to requirements of over 2 lakh families living in these two hubs them. This project will cater to these hubs as well as others from far off places also since this will be a unique project. A number of international brands have already booked their place in this project.",
+                "text": "There are two residential hubs close by, one in sector 137 and another in sector 143. The retail spaces in Butani Cyberthum will cater to requirements of over 2 lakh families living in these two hubs them.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html#testimonials1-6\" data-toolbar=\"-mbrBtnMove\">More details</a> "
               },
               {
@@ -2089,7 +2133,10 @@
           "_anchor": "slider-5",
           "_styles": {
             "P": {
-              "font-size": "18px"
+              "font-size": "13px"
+            },
+            "SPAN": {
+              "font-size": "30px"
             }
           }
         },
@@ -2099,13 +2146,13 @@
             "showName": true,
             "showBio": true,
             "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1276.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#28324e",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -2113,17 +2160,17 @@
           "header": "<span style=\"font-weight: normal;\">Bhutani Cyberthum Highlights:\n</span><div><span style=\"font-weight: normal;\">Project Name: Cyberthum\n</span></div><div><span style=\"font-weight: normal;\">&nbsp;Area: 27Acres\n</span></div><div><span style=\"font-weight: normal;\">Tower:4(A,B,C,D)\n</span></div><div><span style=\"font-weight: normal;\">Type: Retails,Office,Studio,MultiplexCinema\n</span></div><div><br></div>",
           "items": [
             {
-              "authorName": "",
+              "authorName": "Cyberthum",
               "authorBio": "",
               "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bhutani Cyberthum Amenities:\n</b><div>24 HOUR POWER BACKUP, 24 HOURS SECURITY, 24 HOUR WATER SUPPLY, ATM, BANQUET HALL, CAFETERIA, CCTV, CLUBHOUSE, COVERED PARKING, INFINITY POOL, WI-FI, TERRACE GARDEN, INTERCOM, SECURITY,GYMNASIUM, FIRE ALARM SYSTEM, 24 HOURS POWER BACKUP, 24 HOURS WATER SUPPLY, WATER HARVESTING, LIFT, SHOPPING MALL, FOOD COURT AND ETC.\n</div><div><br></div>"
             },
             {
-              "authorName": "",
+              "authorName": "Cyberthum",
               "authorBio": "",
               "text": "<b>&nbsp; &nbsp;Cyberthum Location Advantages:\n</b><div>I-5 minutes’ drive from Amity University\n</div><div>II-10 minutes’ drive from Maha Maya Flyover\n</div><div>III-15 minutes’ drive from Atta Market</div><div>IV-17 minutes’ drive from DND</div><div>V-20 minutes’ drive from Akshardham Temple\n</div><div>\n</div><div><br></div>"
             },
             {
-              "authorName": "",
+              "authorName": "Cyberthum",
               "authorBio": "",
               "text": "<div><b>Cyberthum Highlights&nbsp;</b></div><div>The office space is available at the rate of 550 sq ft for Rs 25 lakh approximately. The retail space is available at the rate of 500 sq ft for Rs 85 lakh approximately. Loans can also be arranged for you quickly so that you can grab this opportunity as soon as possible. The bets of the banks are willing to lend for this prestigious project.\n</div><div>\n</div><div><br></div>"
             }
@@ -2135,17 +2182,17 @@
           "_anchor": "testimonials1-6",
           "testimonial": [
             {
-              "authorName": "",
+              "authorName": "Cyberthum",
               "authorBio": "",
               "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bhutani Cyberthum Amenities:\n</b><div>24 HOUR POWER BACKUP, 24 HOURS SECURITY, 24 HOUR WATER SUPPLY, ATM, BANQUET HALL, CAFETERIA, CCTV, CLUBHOUSE, COVERED PARKING, INFINITY POOL, WI-FI, TERRACE GARDEN, INTERCOM, SECURITY,GYMNASIUM, FIRE ALARM SYSTEM, 24 HOURS POWER BACKUP, 24 HOURS WATER SUPPLY, WATER HARVESTING, LIFT, SHOPPING MALL, FOOD COURT AND ETC.\n</div><div><br></div>"
             },
             {
-              "authorName": "",
+              "authorName": "Cyberthum",
               "authorBio": "",
               "text": "<b>&nbsp; &nbsp;Cyberthum Location Advantages:\n</b><div>I-5 minutes’ drive from Amity University\n</div><div>II-10 minutes’ drive from Maha Maya Flyover\n</div><div>III-15 minutes’ drive from Atta Market</div><div>IV-17 minutes’ drive from DND</div><div>V-20 minutes’ drive from Akshardham Temple\n</div><div>\n</div><div><br></div>"
             },
             {
-              "authorName": "",
+              "authorName": "Cyberthum",
               "authorBio": "",
               "text": "<div><b>Cyberthum Highlights&nbsp;</b></div><div>The office space is available at the rate of 550 sq ft for Rs 25 lakh approximately. The retail space is available at the rate of 500 sq ft for Rs 85 lakh approximately. Loans can also be arranged for you quickly so that you can grab this opportunity as soon as possible. The bets of the banks are willing to lend for this prestigious project.\n</div><div>\n</div><div><br></div>"
             }
@@ -2168,7 +2215,7 @@
               "font-size": "18px",
               "font-family": "'PT Sans Narrow', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".mbr-reviews__text": {
               "text-align": "center"
@@ -2238,7 +2285,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
+          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
