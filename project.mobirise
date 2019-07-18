@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-16_1732",
-    "currentPage": "associate.html",
+    "currentPage": "phase1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,8 +11,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 36,
-    "versionPublish": "4.9.3",
+    "uniqCompNum": 49,
+    "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -49,7 +49,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -492,7 +492,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -676,7 +676,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -873,7 +873,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1255,7 +1255,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1450,7 +1450,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1636,7 +1636,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1782,8 +1782,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1-718x518.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-718x518-718x518.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-732x523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-732x523-732x523.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -1867,7 +1867,7 @@
             {
               "authorName": "",
               "authorBio": "",
-              "text": "<p class=\"mbr-reviews__p\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Location Advantage\n</b></p><p class=\"mbr-reviews__p\">&nbsp;-10 to 12 minutes from NH-2\n</p><p class=\"mbr-reviews__p\">&nbsp;-Radha Rani Temple 5 min&nbsp;</p><p class=\"mbr-reviews__p\">- Rangili Mahal 5 min away&nbsp;</p><p class=\"mbr-reviews__p\">- 7 to 8 minutes from Nand village\n</p><p class=\"mbr-reviews__p\">- 5 minutes from bus stand\n</p><p class=\"mbr-reviews__p\">- 5 minutes away from school college\n</p><p class=\"mbr-reviews__p\">- 10 to 15 minutes from Shani Dham\n</p><p class=\"mbr-reviews__p\">- 15 minutes from Govardhan\n</p><p class=\"mbr-reviews__p\">- Proposed Rail line Koshi Nand Gav</p><p class=\"mbr-reviews__p\">- Proposed Yamuna Express connectivity &nbsp; &nbsp;</p><p class=\"mbr-reviews__p\"><br></p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Location Advantage\n</b></p><p class=\"mbr-reviews__p\">&nbsp;-10 to 12 minutes from NH-2\n</p><p class=\"mbr-reviews__p\">&nbsp;-Radha Rani Temple 5 min&nbsp;</p><p class=\"mbr-reviews__p\">- Rangili Mahal 5 min away&nbsp;</p><p class=\"mbr-reviews__p\">- 7 to 8 minutes from Nand village\n</p><p class=\"mbr-reviews__p\">- 5 minutes from bus stand\n</p><p class=\"mbr-reviews__p\">- 5 minutes away from school college\n</p><p class=\"mbr-reviews__p\">- 10 to 15 minutes from Shani Dham\n</p><p class=\"mbr-reviews__p\">- 15 minutes from Govardhan\n</p><p class=\"mbr-reviews__p\">- Proposed Rail line Koshi Nand Gav</p><p class=\"mbr-reviews__p\">- Yamuna ExpressWay connectivity &nbsp; &nbsp;</p><p class=\"mbr-reviews__p\"><br></p>"
             },
             {
               "authorName": "",
@@ -1899,7 +1899,7 @@
             {
               "authorName": "",
               "authorBio": "",
-              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp;Rate List</b></p><p class=\"mbr-reviews__p\">\tBlock A Front      \t       :                    5000Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock A               \t\t       :             4500 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock B             \t\t       :             4750 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock C          \t\t       :             4500 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tV.I.P. Block  \t\t       :             6500 Per Sq. yard\n</p><p class=\"mbr-reviews__p\">&nbsp; \nShri Radha Rani Phase 1 Chata Barsana&nbsp;</p><p class=\"mbr-reviews__p\">\t 100 ,150,200 Sq. yd &nbsp;:    4250 &nbsp;Sq. Yard\n</p><p class=\"mbr-reviews__p\">\t 50 &amp; 72 Sq. Yard                             :    4000 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;(Note: 10 % Will Be PLC Charge will be extra on Corner,Main Road and Park Facing Plots)\n</p><p class=\"mbr-reviews__p\"><br></p>"
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp;Rate List</b></p><p class=\"mbr-reviews__p\">\tBlock A Front      \t       :                    5000Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock A               \t\t       :             4500 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock B             \t\t       :             4750 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tBlock C          \t\t       :             4500 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">\tV.I.P. Block  \t\t       :             6500 Per Sq. yard\n</p><p class=\"mbr-reviews__p\"> Block D &nbsp;: &nbsp;5500Per Sq. yard</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;(Note: 10 % Will Be PLC Charge will be extra on Corner,Main Road and Park Facing Plots)\n</p><p class=\"mbr-reviews__p\"><br></p>"
             }
           ],
           "_styles": {
@@ -1987,7 +1987,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -2007,7 +2007,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2291,6 +2291,541 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-z"
+        }
+      ]
+    },
+    "phase1.html": {
+      "settings": {
+        "title": "phase1",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#f7da64",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f7da64"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f6d551"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2-removebg-preview-163x86.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PropertyBazar.biz</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-10"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/krs-2-1280x720.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">&nbsp; Shri Radha Rani Township Phase-1</span>",
+                "contentAlign": "left",
+                "text": "The spacious Plot at KRS Shri RadhaRani Township Phase 1 comes with many modern amenities including Utility Shops, Internal Roads, Swimming Pool, Sewage Treatment Plant and Security Guards.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"shriradharani.html#gallery1-a\" data-toolbar=\"-mbrBtnMove\">More Details</a> ",
+                "overlay": true,
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/krs5-1080x608.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Entrance Gate",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"shriradharani.html#gallery1-a\" data-toolbar=\"-mbrBtnMove\">More Details</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171105-wa0044-1280x960.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Shops",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"shriradharani.html#gallery1-a\" data-toolbar=\"-mbrBtnMove\">More Details</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180103-wa0083-1280x960.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Phase-1",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"shriradharani.html#gallery1-a\" data-toolbar=\"-mbrBtnMove\">More Details</a> "
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "slider-11"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-725x527.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-725x527-725x527.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-718x518.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-718x518-718x518.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-706x523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-706x523-706x523.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-732x527.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-732x527-732x527.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-735x471.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-735x471-735x471.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-730x530.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-730x530-730x530.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7-734x530.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-734x530-734x530.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-731x515.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-731x515-731x515.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-12"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "RADHA RANI PHASE-1",
+          "items": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Location Advantage\n</b></p><p class=\"mbr-reviews__p\">&nbsp;-10 to 12 minutes from NH-2\n</p><p class=\"mbr-reviews__p\">&nbsp;-Radha Rani Temple 5 min&nbsp;</p><p class=\"mbr-reviews__p\">- Rangili Mahal 5 min away&nbsp;</p><p class=\"mbr-reviews__p\">- 7 to 8 minutes from Nand village\n</p><p class=\"mbr-reviews__p\">- 5 minutes from bus stand\n</p><p class=\"mbr-reviews__p\">- 5 minutes away from school college\n</p><p class=\"mbr-reviews__p\">- 10 to 15 minutes from Shani Dham\n</p><p class=\"mbr-reviews__p\">- 15 minutes from Govardhan\n</p><p class=\"mbr-reviews__p\">- Proposed Rail line Koshi Nand Gav</p><p class=\"mbr-reviews__p\">- Yamuna ExpressWay connectivity &nbsp; &nbsp;</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> &nbsp;Features &nbsp; &nbsp;</b></p><p class=\"mbr-reviews__p\">&nbsp;- Sewerage facility by STP\n</p><p class=\"mbr-reviews__p\">&nbsp; -24-hour freshwater facility\n</p><p class=\"mbr-reviews__p\">&nbsp; -Public utility (swimming, club )\n</p><p class=\"mbr-reviews__p\">- Community center\n</p><p class=\"mbr-reviews__p\">&nbsp; -School, temple, hospital, park\n</p><p class=\"mbr-reviews__p\">&nbsp; -Wide Roads, lights ,trees on roads\n</p><p class=\"mbr-reviews__p\">&nbsp; -Boundary facility\n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;-24 Hours Security &nbsp;on the Gate\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp;Rate List</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">&nbsp; \nShri Radha Rani Phase 1 Chata Barsana&nbsp;</p><p class=\"mbr-reviews__p\">\t 100 ,150,200 Sq. yd &nbsp;:    4250 &nbsp;Sq. Yard\n</p><p class=\"mbr-reviews__p\">\t 50 &amp; 72 Sq. Yard                             :    4000 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;(Note: 10 % Will Be PLC Charge will be extra on Corner,Main Road and Park Facing Plots)\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Location Advantage\n</b></p><p class=\"mbr-reviews__p\">&nbsp;-10 to 12 minutes from NH-2\n</p><p class=\"mbr-reviews__p\">&nbsp;-Radha Rani Temple 5 min&nbsp;</p><p class=\"mbr-reviews__p\">- Rangili Mahal 5 min away&nbsp;</p><p class=\"mbr-reviews__p\">- 7 to 8 minutes from Nand village\n</p><p class=\"mbr-reviews__p\">- 5 minutes from bus stand\n</p><p class=\"mbr-reviews__p\">- 5 minutes away from school college\n</p><p class=\"mbr-reviews__p\">- 10 to 15 minutes from Shani Dham\n</p><p class=\"mbr-reviews__p\">- 15 minutes from Govardhan\n</p><p class=\"mbr-reviews__p\">- Proposed Rail line Koshi Nand Gav</p><p class=\"mbr-reviews__p\">- Yamuna ExpressWay connectivity &nbsp; &nbsp;</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> &nbsp;Features &nbsp; &nbsp;</b></p><p class=\"mbr-reviews__p\">&nbsp;- Sewerage facility by STP\n</p><p class=\"mbr-reviews__p\">&nbsp; -24-hour freshwater facility\n</p><p class=\"mbr-reviews__p\">&nbsp; -Public utility (swimming, club )\n</p><p class=\"mbr-reviews__p\">- Community center\n</p><p class=\"mbr-reviews__p\">&nbsp; -School, temple, hospital, park\n</p><p class=\"mbr-reviews__p\">&nbsp; -Wide Roads, lights ,trees on roads\n</p><p class=\"mbr-reviews__p\">&nbsp; -Boundary facility\n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;-24 Hours Security &nbsp;on the Gate\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp;Rate List</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">&nbsp; \nShri Radha Rani Phase 1 Chata Barsana&nbsp;</p><p class=\"mbr-reviews__p\">\t 100 ,150,200 Sq. yd &nbsp;:    4250 &nbsp;Sq. Yard\n</p><p class=\"mbr-reviews__p\">\t 50 &amp; 72 Sq. Yard                             :    4000 Per Sq. Yard\n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;(Note: 10 % Will Be PLC Charge will be extra on Corner,Main Road and Park Facing Plots)\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-reviews__text P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "testimonials1-13"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "text1": "<br>\n<strong>CONTACTS</strong><br>\nEmail: empowerworldindia@gmail.com<br>\nPhone: +91 (0129) 4881678<br>\nFax:+91 (0129) 4881678<br>Web:www.propertybazar.biz",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://munishbansal.com\">Munishbansal.com</a></li><li><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "empowerworldindia@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-14"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-15"
+        }
+      ]
+    },
+    "phase2.html": {
+      "settings": {
+        "title": "phase2",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#f7da64",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(184, 49, 47);\"></span>Projects</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Barsana</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shriradharani.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Shri Radha Rani Township, Barsana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase1.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"phase2.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Phase-2</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Noida</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cyberthum.html\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\"></span>Cyber Thum Noida</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\" aria-expanded=\"false\">Gurugram</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Faridabad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Greater Noida</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://propertybazar.biz\">Yamuna Express Way</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photovideo.html\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Photo &amp; Video</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"career.html\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Career</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associate.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>Associate</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+91-129-4881678\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(184, 49, 47);\"></span>+91-129-4881678</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"advisorcall.html\">GET ADVISOR'S CALL</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f7da64"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f6d551"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "11px"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2-removebg-preview-163x86.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PropertyBazar.biz</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-16"
+        },
+        {
+          "text": "<p><b>Upcoming Project</b></p><p><b>Barsana -Goverdhan Phase-2 Project will be Launch very soon........................</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1c",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "text1": "<br>\n<strong>CONTACTS</strong><br>\nEmail: empowerworldindia@gmail.com<br>\nPhone: +91 (0129) 4881678<br>\nFax:+91 (0129) 4881678<br>Web:www.propertybazar.biz",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://munishbansal.com\">Munishbansal.com</a></li><li><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "empowerworldindia@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1a"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 propertybazar.biz&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"index.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1b"
         }
       ]
     }

@@ -361,3 +361,85 @@
 #testimonials1-6 .mbr-reviews__text {
   text-align: center;
 }
+
+
+#dropdown-menu-2btn-10 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-10 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-2btn-10 .nav .link,
+#dropdown-menu-2btn-10 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-2btn-10 .navbar,
+#dropdown-menu-2btn-10 .dropdown-menu {
+  background: #f7da64;
+}
+#dropdown-menu-2btn-10 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-10 .dropdown-menu a:hover,
+#dropdown-menu-2btn-10 .dropdown-menu a:focus {
+  background: #f6d551;
+}
+#dropdown-menu-2btn-10 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-10 .btn {
+  font-size: 11px;
+}
+#dropdown-menu-2btn-10 A {
+  font-size: 16px;
+  font-family: 'Oswald', sans-serif;
+}
+#slider-11 H1 {
+  font-size: 36px;
+}
+#slider-11 P {
+  text-align: center;
+  font-size: 15px;
+}
+#slider-11 SPAN {
+  font-size: 20px;
+}
+#testimonials1-13 .mbr-reviews__text P {
+  text-align: left;
+}
+
+
+#dropdown-menu-2btn-16 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-16 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-2btn-16 .nav .link,
+#dropdown-menu-2btn-16 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-2btn-16 .navbar,
+#dropdown-menu-2btn-16 .dropdown-menu {
+  background: #f7da64;
+}
+#dropdown-menu-2btn-16 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-16 .dropdown-menu a:hover,
+#dropdown-menu-2btn-16 .dropdown-menu a:focus {
+  background: #f6d551;
+}
+#dropdown-menu-2btn-16 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-16 .btn {
+  font-size: 11px;
+}
+#dropdown-menu-2btn-16 A {
+  font-size: 16px;
+  font-family: 'Oswald', sans-serif;
+}
+#content1-1c P {
+  text-align: center;
+}
